@@ -65,6 +65,7 @@ class _PortfolioHomePageState extends State<PortfolioHomePage> {
     },
     {
       'label': 'Instagram',
+      
       'icon': Icons.camera_alt,
       'url': 'https://www.instagram.com/amylve_w.02?igsh=MXRqOWYwNDR0cDJ5bw==',
     },
